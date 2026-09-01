@@ -16,7 +16,7 @@
 
 <br/><br/><br/>
 
-<img src="https://raw.githubusercontent.com/Ryakira/Ryakira/main/assets/kaua-porto-elfa.png" width="100%" alt="Elfa em preto e branco">
+<img src="./assets/frieren-side-eye1.gif" width="75%" alt="Frieren em animação">
 
 <br/><br/><br/>
 
@@ -42,7 +42,7 @@ Sou Kauã Porto, desenvolvedor apaixonado por tecnologia e pela criação de exp
 
 <div align="center">
 
-<img src="./assets/frieren-side-eye1.gif" width="75%" alt="Frieren em animação">
+<img src="https://raw.githubusercontent.com/Ryakira/Ryakira/main/assets/kaua-porto-elfa.png" width="100%" alt="Elfa em preto e branco">
 
 </div>
 
