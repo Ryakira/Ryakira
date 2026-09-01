@@ -42,7 +42,7 @@ Sou Kauã Porto, desenvolvedor apaixonado por tecnologia e pela criação de exp
 
 <div align="center">
 
-<img src="./assets/frieren-side-eye.gif" width="75%" alt="Frieren em animação">
+<img src="./assets/frieren-side-eye1.gif" width="75%" alt="Frieren em animação">
 
 </div>
 
