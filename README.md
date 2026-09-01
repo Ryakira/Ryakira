@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Ryakira.
+# Olá, eu sou Kauã Porto.
 
 ### DESENVOLVEDOR WEB
 ### Criando experiências digitais, interfaces e projetos que ganham vida.
@@ -17,9 +17,9 @@
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h0tm4kizn/h0tm4kizn/main/maki-zenin-aura-power.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/h0tm4kizn/h0tm4kizn/main/maki-zenin-aura-power.gif">
-  <img src="https://raw.githubusercontent.com/h0tm4kizn/h0tm4kizn/main/maki-zenin-aura-power.gif" width="100%" alt="Maki Zenin usando sua energia">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-kaua-porto.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-kaua-porto.png">
+  <img src="./assets/banner-kaua-porto.png" width="100%" alt="Banner de Kauã Porto">
 </picture>
 
 </div>
@@ -28,12 +28,18 @@
 
 ## SOBRE MIM
 
-Sou um desenvolvedor apaixonado por tecnologia e pela criação de experiências digitais. Gosto de transformar ideias em aplicações funcionais, explorar novas ferramentas e evoluir a cada projeto.
+Sou Kauã Porto, desenvolvedor apaixonado por tecnologia e pela criação de experiências digitais. Gosto de transformar ideias em aplicações funcionais, explorar novas ferramentas e evoluir a cada projeto.
 
 - Desenvolvendo projetos web e experiências interativas
 - Aprendendo e aprimorando minhas habilidades constantemente
 - Interessado em interfaces, automações e soluções criativas
 - Aberto a novas ideias, colaborações e desafios
+
+<br/>
+
+<div align="center">
+  <img src="./assets/anime-elfa.png" width="100%" alt="Elfa em estilo anime">
+</div>
 
 <br/>
 
@@ -82,6 +88,6 @@ Sou um desenvolvedor apaixonado por tecnologia e pela criação de experiências
 
 <br/><br/>
 
-<sub>Ryakira · Sempre aprendendo · Sempre construindo</sub>
+<sub>Kauã Porto · Sempre aprendendo · Sempre construindo</sub>
 
 </div>
