@@ -42,7 +42,7 @@ Sou Kauã Porto, desenvolvedor apaixonado por tecnologia e pela criação de exp
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ryakira/Ryakira/main/assets/kaua-porto-elfa.png" width="100%" alt="Elfa em preto e branco">
+<img src="https://github.com/Ryakira/Ryakira/blob/main/assets/kaua-porto-elfa.png?raw=true&v=2" width="100%" alt="Elfa em preto e branco">
 
 </div>
 
@@ -64,7 +64,7 @@ Sou Kauã Porto, desenvolvedor apaixonado por tecnologia e pela criação de exp
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ryakira/Ryakira/main/assets/anime-dark-water.png" width="100%" alt="Personagem em cenário escuro">
+<img src="https://github.com/Ryakira/Ryakira/blob/main/assets/anime-dark-water.png?raw=true&v=2" width="100%" alt="Personagem em cenário escuro">
 
 </div>
 
