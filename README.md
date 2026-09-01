@@ -16,7 +16,7 @@
 
 <br/><br/><br/>
 
-<img src="./assets/frieren-side-eye1.gif" width="75%" alt="Frieren em animação">
+<img src="./assets/frieren-side-eye1.gif" width="100%" alt="Frieren em animação">
 
 <br/><br/><br/>
 
