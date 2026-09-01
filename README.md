@@ -1,8 +1,7 @@
 <div align="center">
 
-# Olá, eu sou o Kauã.
 
-### DESENVOLVEDOR WEB
+### DESENVOLVEDOR
 
 <br/>
 
