@@ -1,9 +1,8 @@
 <div align="center">
 
-# Olá, eu sou Kauã Porto.
+# Olá, eu sou o Kauã.
 
 ### DESENVOLVEDOR WEB
-### ПУТЬ ТЕНИ · O CAMINHO DAS SOMBRAS
 
 <br/>
 
@@ -76,7 +75,7 @@ Sou Kauã Porto, desenvolvedor apaixonado por tecnologia e pela criação de exp
 
 ### «Невидимый клинок — самый смертоносный.»
 
-<sub>— Зед, League of Legends</sub>
+<sub>— Зед</sub>
 
 <br/>
 
