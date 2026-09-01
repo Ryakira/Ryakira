@@ -72,20 +72,6 @@ Sou Kauã Porto, desenvolvedor apaixonado por tecnologia e pela criação de exp
 
 ---
 
-## ESTATÍSTICAS
-
-<div align="center">
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Ryakira&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" alt="Sequência de contribuições" />
-
-</div>
-
-<br/><br/>
-
----
-
 <div align="center">
 
 ### «Невидимый клинок — самый смертоносный.»
