@@ -3,11 +3,11 @@
 # Olá, eu sou Kauã Porto.
 
 ### DESENVOLVEDOR WEB
-### Criando experiências digitais, interfaces e projetos que ganham vida.
+### ПУТЬ ТЕНИ · O CAMINHO DAS SOMBRAS
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=50&lines=Transformando+ideias+em+código.;Sempre+aprendendo.+Sempre+evoluindo.;Welcome+to+my+domain.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&height=50&lines=Невидимый+клинок+—+самый+смертоносный.;Равновесие+—+ложь.;Тени+меня+не+предадут.)
 
 <br/>
 
@@ -78,11 +78,6 @@ Sou Kauã Porto, desenvolvedor apaixonado por tecnologia e pela criação de exp
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ryakira&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryakira&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Linguagens mais usadas" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=Ryakira&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" alt="Sequência de contribuições" />
 
 </div>
@@ -93,7 +88,9 @@ Sou Kauã Porto, desenvolvedor apaixonado por tecnologia e pela criação de exp
 
 <div align="center">
 
-### “A evolução começa quando uma ideia se transforma em ação.”
+### «Невидимый клинок — самый смертоносный.»
+
+<sub>— Зед, League of Legends</sub>
 
 <br/>
 
@@ -102,6 +99,6 @@ Sou Kauã Porto, desenvolvedor apaixonado por tecnologia e pela criação de exp
 
 <br/><br/>
 
-<sub>Kauã Porto · Sempre aprendendo · Sempre construindo</sub>
+<sub>Kauã Porto · Путь Тени</sub>
 
 </div>
